@@ -16,3 +16,10 @@ Load in the provided matrix and then sum up all of the cells around the provided
 **Examples:**  
 The sum of 0,0 is 16.  
 The sum of 1,1 is 41.
+
+**Testing***
+
+For manually running the tests:
+
+1. Ctrl-Shift-S
+2. `mvn test`
