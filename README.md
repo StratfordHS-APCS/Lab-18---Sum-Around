@@ -17,7 +17,7 @@ Load in the provided matrix and then sum up all of the cells around the provided
 The sum of 0,0 is 16.  
 The sum of 1,1 is 41.
 
-**Note:**
+**Note:**  
 An approach to handling the edges and corners is to make a new array that consists of this array with zeros all around it. Let's *not* do that. In the interest of learning the things AP could be testing I want you to learn how to handle boundary conditions like the edges and corners.
 
 **Testing**
